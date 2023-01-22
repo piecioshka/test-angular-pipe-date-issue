@@ -2,6 +2,6 @@
 
 📒 Testing Angular Date Pipe (a problem with years)
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-angular-pipe-date-problem/>
