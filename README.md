@@ -1,7 +1,7 @@
-# test-angular-pipe-date-problem
+# test-angular-pipe-date-issue
 
-📒 Testing Angular Date Pipe (a problem with years)
+📒 Testing Angular Date Pipe (an issue with years)
 
 ## Preview 🎉
 
-<https://piecioshka.github.io/test-angular-pipe-date-problem/>
+<https://piecioshka.github.io/test-angular-pipe-date-issue/>

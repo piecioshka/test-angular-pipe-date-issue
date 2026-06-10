@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "test-angular-pipe-date-problem",
+  "name": "test-angular-pipe-date-issue",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -10,8 +10,8 @@
     "test:ci": "ng test --no-watch --no-progress --browsers ChromeHeadless",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "predeploy": "ng build --base-href=/test-angular-pipe-date-problem/",
-    "deploy": "cross-env NODE_DEBUG=gh-pages gh-pages -d dist/test-angular-pipe-date-problem"
+    "predeploy": "ng build --base-href=/test-angular-pipe-date-issue/",
+    "deploy": "cross-env NODE_DEBUG=gh-pages gh-pages -d dist/test-angular-pipe-date-issue"
   },
   "dependencies": {
     "@angular/animations": "^14.0.1",
